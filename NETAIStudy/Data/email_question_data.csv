@@ -1,0 +1,34 @@
+﻿Text,Label
+"Could I need to approve that?",QUESTION
+"Would I like?",QUESTION
+"Do I have your approval?",QUESTION
+"Can I proceed with the approval?",QUESTION
+"Should I approve this project?",QUESTION
+"Has my proposal been approved?",QUESTION
+"Did you approve my request?",QUESTION
+"Is my submission approved?",QUESTION
+"Will you approve my application?",QUESTION
+"Are you happy to approve this?",QUESTION
+"Can I consider it approved?",QUESTION
+"Am I allowed to move forward?",QUESTION
+"Do you confirm the approval?",QUESTION
+"Can we proceed with the next steps?",QUESTION
+"Has my suggestion been approved?",QUESTION
+"Should we consider this approved?",QUESTION
+"Is my request for approval granted?",QUESTION
+"Congratulations, your project is approved!",NOT_QUESTION
+"We are happy to proceed with your proposal.",NOT_QUESTION
+"Yes, I approve this project.",NOT_QUESTION
+"We are excited to approve your application.",NOT_QUESTION
+"We are happy to approve your request.",NOT_QUESTION
+"Your submission meets our standards and is approved.",NOT_QUESTION
+"Your proposal has been approved.",NOT_QUESTION
+"Your application has been reviewed and approved.",NOT_QUESTION
+"Approval confirmed. Your request is approved.",NOT_QUESTION
+"We have successfully approved your submission.",NOT_QUESTION
+"We are delighted to inform you that your request is approved.",NOT_QUESTION
+"We are glad to approve your suggestion.",NOT_QUESTION
+"We are moving forward with your request.",NOT_QUESTION
+"We appreciate your efforts and approve your proposal.",NOT_QUESTION
+"We are pleased to accept your request.",NOT_QUESTION
+"Your request for approval has been granted.",NOT_QUESTION
