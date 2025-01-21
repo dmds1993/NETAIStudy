@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETAIStudy", "NETAIStudy\NETAIStudy.csproj", "{3977C936-B76A-4E55-B1CF-C5C70FE4D88F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IARecognizeAnswers", "BoardMemberResponseV2_ConsoleApp1\IARecognizeAnswers.csproj", "{21D9905A-4DC6-4AA8-A1C7-C6DC131E1361}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IARecognizeAnswers", "IARecognizeAnswers\IARecognizeAnswers.csproj", "{21D9905A-4DC6-4AA8-A1C7-C6DC131E1361}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
